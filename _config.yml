@@ -1,4 +1,3 @@
-layout_spectrum: 0.5222125356085598
 typography_spectrum: 0.5360162497963756
 color:
   brandStrength: 0.41734685469418764
@@ -11,4 +10,6 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.5222125356085598
 name: Sativa Jones
+description: We Know Your Jones...
